@@ -55,8 +55,8 @@
         "text": "MSW gjør kall til en API for testing"
       },
 
-      "React-testing": "Hvilken beskrivelse, beskriver React Testing Library",
-      "answers": [
+      "React_testing": "Hvilken beskrivelse, beskriver React Testing Library",
+      "answers_React_testing": [
         { "answere": "Det er et fleksible og intuitiv bibliotek som tester ved en ved å etterligne Jquery-Apien for enklere DOM manipulering og gjennomgang av react komponenter, bruker også funksjoner som .shallow()" },
         {
           "answere": "Det er et bibliotek dedikert til å teste og trene opp ens reaksjon"
@@ -69,7 +69,7 @@
           "answere": "Et bibliotek for å ekslusivt teste asynkrone funksjoner for react"
         }
       ],
-      "helper": {
+      "helper_React_testing": {
         "text": "Det er et bibliotek for testing av react komponenter"
       }
     }
