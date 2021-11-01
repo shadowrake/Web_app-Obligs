@@ -1,0 +1,1 @@
+Jeg forsto ikke hva og hvordan vi skulle formatere JSON koden, jeg forsto heller ikke hvor mye vi skulle ha med
